@@ -1,0 +1,8 @@
+build/
+*.swp
+*~
+*.so
+*.a
+*.dylib
+*.dll
+*.exe
